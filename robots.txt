@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://h10labs.github.io/sitemap.xml 

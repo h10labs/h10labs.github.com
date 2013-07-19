@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "index"
 date: 2013-07-17 16:48
 comments: true
 sharing: true
